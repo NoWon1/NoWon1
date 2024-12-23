@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Aditya Mukherjee (@NoWon1), a 3rd Year Computer Science student.
+- 👀 I’m interested in AI/ML, App Development, and Cybersecurity.
+- 🌱 I’m currently learning Docker, SWE and AWS.
+- 💞️ I’m looking to collaborate on innovative and impactful projects.
+- 📫 How to reach me:
+- [Linkdin](https://www.linkedin.com/in/adi-tya-mukherjee/)
+- adityamuk1@gmail.com
