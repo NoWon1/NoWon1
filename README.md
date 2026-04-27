@@ -3,7 +3,7 @@
     Open to discussing AI architecture, MLOps, and computational biology collaborations.
 
 - Current Focus:
-    AI/ML Intern at Aziro: Engineering a multimodal Graph-Augmented RAG pipeline, integrating Neo4j AuraDB (cypher) with MedGemma.
+    AI/ML Intern at Aziro: Engineering a multimodal Graph-RAG pipeline, integrating Neo4j AuraDB (cypher) with MedGemma.
     Full-Stack Automation: Building automated ETL workflows and educational platforms using Playwright, FastAPI, and React.
 
 - Core Tech Stack:
